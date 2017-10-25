@@ -23,7 +23,7 @@ export class Layout extends Component {
     return (
       <div className="products-container">
         <Row>
-          {products}
+          {products} Products
         </Row>
       </div>
     )
